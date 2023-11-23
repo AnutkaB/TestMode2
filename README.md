@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/AnutkaB/TestMode2/actions/workflows/fradle.yml/badge.svg)](https://github.com/AnutkaB/TestMode2/actions/workflows/fradle.yml)
