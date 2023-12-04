@@ -49,6 +49,7 @@ public class DataGeneration {
             return password;
         }
 
+
         public static RegistrationInfo getUser(String status) {
             RegistrationInfo user = new RegistrationInfo(getRandomLogin(), getRandomPassword(), status);
             return user;
